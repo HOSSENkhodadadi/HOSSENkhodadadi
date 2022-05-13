@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋 I'm Hossein Khodadadi </h1>
 <h3 align="center">I have started a position in Data Science, I am passionate about learning Artificial Intelligence; I don't feel time when working on innovative ideas.</h3>
 
-- 🔭 I’m currently working on **gagining new skills in programming**
+- 🔭 I’m currently working on **gaining new skills in programming**
 
 - 🌱 I’m currently learning **Data Structure, Algorithm.**
 
