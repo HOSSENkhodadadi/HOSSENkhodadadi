@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Hossein Khodadadi 👨‍💻
+ 
+I have started a position in Data Science, I am passionate about learning Artificial Intelligence;I don't feel time when working on innovative ideas.
 
-<!--
-**HOSSENkhodadadi/HOSSENkhodadadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on gaining new skills in programming.
+- 🌱 I’m currently learning Data Structure, Algortithm.
+- 👯 I’m looking to collaborate on YouTube.
+- 🤔 I’m looking for help with Information Systems.
+- 💬 Ask me about Mathematics
+- 📫 How to reach me: Email: hosseinekhodadadi@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am Crazy about innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
