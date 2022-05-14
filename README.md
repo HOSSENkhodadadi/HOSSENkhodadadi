@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **hosseinekhodadadi@gmail.com**
 
-- ⚡ Fun fact **I am Crazy about innovation.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
