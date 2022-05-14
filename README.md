@@ -4,7 +4,7 @@
 <h3 align="center">I have started a position in Data Science, I am passionate about learning Artificial Intelligence; I don't feel time when working on innovative ideas.</h3>
 <h1 align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=HOSSENkhodadadi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img align ="right" width ="39%" height = "230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOSSENkhodadadi&layout=compact"/>
+<img align ="right" width ="39%" height = "210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOSSENkhodadadi&layout=compact"/>
 </h1>
 
 - 🔭 I’m currently working on **gaining new skills in programming**
