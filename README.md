@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Hossein Khodadadi, a student of Data Science and Engineering at Politecnico di Torino, I am a Data Science enthusiast.
+I'm a student of Data Science and Engineering at Politecnico di Torino, I am a Data Science enthusiast.
 
 ## Projects
 Here are some of the projects I've been working on:
