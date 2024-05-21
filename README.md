@@ -1,6 +1,5 @@
 ## Hi 👋, I'm Hossein Khodadadi
 
-
 <!--
 **HOSSENkhodadadi/HOSSENkhodadadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a Data Science enthusiast studying Data Science and Engineering at Politecnico di Torino.
+## You can reach me through: [Linkedin](https://www.linkedin.com/in/hosseinekhodadadi/)
 
 ## Projects
 Here are some of the projects I've been working on:
