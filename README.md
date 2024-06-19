@@ -29,7 +29,7 @@ Tech: Weights\&Biasses, Pytorch
 3. [Audio Intent Detection (Classification, Deep Learning)](https://github.com/HOSSENkhodadadi/Projects/tree/main/Intent%20Detection%20on%20the%20Fluent%20Speech%20Commands): A deep learning model was designed to classify audio files using MFCC method. Tech: Python, TensorFlow, Keras 
 
 
-4. [Reinforcement Learning on Game Agent Training for Quixo Board Game (RL, Deep RL)](https://github.com/HOSSENkhodadadi/Quixo_Game_Player_Min_Max): Min-Max algorithm was implemented to play Quixo game with 95% win rate against a random player.
+4. [Reinforcement Learning on Game Agent Training for Quixo Board Game (RL, Deep RL)](https://github.com/HOSSENkhodadadi/Computational_Intelligence/tree/main/Final%20Project%20(Quixo)): Min-Max algorithm was implemented to play Quixo game with 95% win rate against a random player.
 Tech: Python, Pytorch
 
 5. [Predicting Covid-19 outbreak using LSTM algorithm in Deep Learning (Time Series Prediction, Deep
