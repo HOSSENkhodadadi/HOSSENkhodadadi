@@ -21,7 +21,7 @@ I'm a Data Science enthusiast studying Data Science and Engineering at Politecni
 Here are some of the projects I've been working on:
 
 1. [Leveraging Personal Pronoun Resolution, Keywords Extraction, Data Augmentation, and Model Exploration for Enhanced Abstractive Dialogue Summarization (NLP, Deep
-Learning)](https://github.com/HOSSENkhodadadi/SICK_Summarization): Multiple Seq2Seq models were trained and improved through augmentation to evaluate their capabilities for dialogue summarization task..
+Learning)](https://github.com/HOSSENkhodadadi/SICK_Summarization): Multiple Seq2Seq models were trained and improved through augmentation to evaluate their capabilities for dialogue summarization task.
 Tech: Hugging Face, Weights\&Biasses,
 
 4. [Caltech Classification and Fine Tuning on AlexNet (Classification, Deep
