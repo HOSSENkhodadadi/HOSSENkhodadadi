@@ -1,6 +1,7 @@
 ## Hi 👋, I'm Hossein Khodadadi
 
-I'm a Data Science enthusiast studying Data Science and Engineering at Politecnico di Torino.
+🎓 Data Science Graduate | 🤖 AI Engineer | 🔬 NLP & Healthcare Enthusiast  
+🚀 Passionate about building practical ML/DL solutions
 ## You can reach me through [LinkedIn](https://www.linkedin.com/in/hosseinekhodadadi/)
 
 ## Projects
