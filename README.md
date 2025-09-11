@@ -1,7 +1,12 @@
+<div align="center">
+
 ## Hi 👋, I'm Hossein Khodadadi
 
 I am a Data Science Graduate | 🤖 AI Engineer | 🔬 NLP Enthusiast, passionate about building practical ML/DL solutions
+
 ## You can reach me through [LinkedIn](https://www.linkedin.com/in/hosseinekhodadadi/)
+
+</div>
 
 ## Projects
 Here are some of the projects I've been working on:
