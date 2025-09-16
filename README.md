@@ -11,9 +11,8 @@ I am a Data Science Graduate | 🤖 AI Engineer | 🔬 NLP Enthusiast, passionat
 ## Projects
 Here are some of the projects I've been working on:
 
-1. [Leveraging Personal Pronoun Resolution, Keywords Extraction, Data Augmentation, and Model Exploration for Enhanced Abstractive Dialogue Summarization (NLP, Deep
-Learning)](https://github.com/HOSSENkhodadadi/SICK_Summarization): Multiple Seq2Seq models were trained and improved through augmentation to evaluate their capabilities for dialogue summarization task.
-Tech: Hugging Face, Weights\&Biasses,
+1. [Improving Retrieval Mechanism in Retrieval-Augmented Generation Architecture (NLP, RAG)](https://github.com/HOSSENkhodadadi/RAG): Multiple transformer models were trained and improved through finetuning to evaluate their capabilities for the retrieval task.
+Tech: Hugging Face, VectorDBs,
 
 4. [Caltech Classification and Fine Tuning on AlexNet (Classification, Deep
 Learning)](https://github.com/HOSSENkhodadadi/Caltech_classification_fine_tuning_AlexNet): AlexNet model was used to predict in low data regimes and a large number of classes. different fine-tuning techniques were used to improve the accuracy.
