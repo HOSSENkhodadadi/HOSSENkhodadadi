@@ -18,7 +18,7 @@ Tech: Hugging Face, VectorDBs,
 Learning)](https://github.com/HOSSENkhodadadi/Caltech_classification_fine_tuning_AlexNet): AlexNet model was used to predict in low data regimes and a large number of classes. different fine-tuning techniques were used to improve the accuracy.
 Tech: Weights\&Biasses, Pytorch
 
-5. [A Novel Approach for Improving Generalization in Federated Learning Through Corrective Gradient Weights (Federated Learning, Deep Learning)](https://github.com/HOSSENkhodadadi/Projects/tree/main/A%20Novel%20Approach%20for%20Improving%20Generalization%20in%20Federated): The Federated Learning paradigm was implemented to train a central Neural Network Model without intruding the clients privacy, the model improved by adding the Corrective Gradient Weights.
+5. [Machine Learning Based Natural Language Querying of Automotive Data (Information Retrieval, Deep Learning)](hosseinekhodadadi@gmail.com): A RAG architecture was designed to remove the intermediaries in the automotive industry, COLBERT architecture was implemented as State of the Art.
     Tech: Python, PyTorch
 <!--
 6. [Reinforcement Learning on Game Agent Training for Quixo Board Game (RL, Deep RL)](https://github.com/HOSSENkhodadadi/Computational_Intelligence/tree/main/Final%20Project%20(Quixo)): Min-Max algorithm was implemented to play Quixo game with 95% win rate against a random player.
